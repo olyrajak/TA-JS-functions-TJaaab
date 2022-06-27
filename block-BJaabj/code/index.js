@@ -118,7 +118,7 @@ function fullName() {
     let fullName = firstName + ' ' + lastName;
     alert(fullName);
 }
-// fullName();
+fullName();
 /*
 3. Create a function named `addTwoNumbers` with the following steps:
 
@@ -133,7 +133,7 @@ function addTwoNumbers() {
     let sum = firstNum + secondNum;
     alert(sum);
 }
-// addTwoNumbers();
+addTwoNumbers();
 /*
 4. Create a function named `getTable` with the following steps:
 
@@ -158,7 +158,7 @@ function getTable() {
         console.log(`${num}*${i}=${num*i}`);
     }
 }
-// getTable();
+getTable();
 /*
 5. Create a function named `isLeapYear` with the following steps:
 
@@ -177,7 +177,7 @@ function isLeapYear() {
         alert(`${year} is not a leap year`);
     }
 }
-// isLeapYear();
+isLeapYear();
 /*
 6. Create a function named `getFactorial` with the following steps:
 
