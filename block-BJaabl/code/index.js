@@ -38,6 +38,7 @@ function addTwoNumbers(firstNum, secondNum) {
 addTwoNumbers(13, 52); // 32
 addTwoNumbers(33, 43); // 32
 addTwoNumbers(55, "222"); // Alert Enter Valid Input
+addTwoNumbers(65, "222"); // Alert Enter Valid Input
 /*
 4. Create a function named `calc` which accepts three parameter `numA`, `numB` and `operation`. Operation
 can only be one of these `add, sub, mul, div`. Based on the operator return the value. If the `numA` or `numB`
