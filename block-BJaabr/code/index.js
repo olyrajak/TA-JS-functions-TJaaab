@@ -143,7 +143,7 @@ square(44);
 // - Execute the function and store the return value in a variable
 square(45);
 // - What is the typeof returnValue
-//******the typeof returnValue is Number */
+//*the typeof returnValue is Number */
 
 /* 5. Find isGreater
 
