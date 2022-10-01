@@ -1,5 +1,5 @@
 /*
-1. Create a function named `sayHello` that alerts a message `Hello World!`.
+1. Create a function named `sayHello` that alerts a message `Hello World!`
 */
 
 function sayHello() {
